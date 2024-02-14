@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\ooo\source\repos\Game Project\Source.cpp(20,35): warning C4244: 'return': conversion from 'const float' to 'int', possible loss of data
+C:\Users\ooo\source\repos\Game Project\Source.cpp(245,30): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ooo\source\repos\Game Project\Source.cpp(353,14): warning C4101: 'revealchar': unreferenced local variable
+C:\Users\ooo\source\repos\Game Project\Source.cpp(495,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Game Project.vcxproj -> C:\Users\ooo\source\repos\Game Project\x64\Debug\Game Project.exe
